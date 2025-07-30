@@ -31,4 +31,6 @@ PROgamer é um aplicativo mobile voltado ao aprendizado de programação, ideal 
 
 ## 📐 Requisitos Não-Funcionais
 
+- Tradução para outros idiomas
+- Modo claro\escuro
 - ...
