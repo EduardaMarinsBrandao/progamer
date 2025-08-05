@@ -2,7 +2,7 @@
 
 ## 📱 Tema
 
-PROgamer é um site voltado ao aprendizado de programação, ideal para pessoas que desejam aprender ou revisar conceitos básicos de programação.
+PROgamer é um aplicativo programado por React voltado ao aprendizado de programação, ideal para pessoas que desejam aprender ou revisar conceitos básicos.
 
 ## 👩‍💻 Integrantes
 
@@ -28,9 +28,10 @@ PROgamer é um site voltado ao aprendizado de programação, ideal para pessoas 
 - Seleção de linguagem de programação 
 - Monitoramento de progresso e pontuação  
 - Apresentação de atividades personalizadas por linguagem
+- Tradução para outros idiomas -> Eduarda
+- Modo claro\escuro -> Lara
 
 ## 📐 Requisitos Não-Funcionais
 
-- Tradução para outros idiomas -> Eduarda
-- Modo claro\escuro -> Lara
+- Disponível para Android: a partir da versão 5.0 (API 21) ou superior e iOS: a partir da versão 13.0 ou superior
 - Além das funções do nosso projeto, focamos também em aspectos como rapidez e fluidez, que garantem que o sistema funcione de forma agradável, sem travamentos ou lentidão.
