@@ -2,7 +2,7 @@
 
 ## 📱 Tema
 
-PROgamer é um aplicativo mobile voltado ao aprendizado de programação, ideal para pessoas que desejam aprender ou revisar conceitos básicos de programação, especialmente aquelas que não têm acesso constante a um computador.
+PROgamer é um site voltado ao aprendizado de programação, ideal para pessoas que desejam aprender ou revisar conceitos básicos de programação.
 
 ## 👩‍💻 Integrantes
 
@@ -33,5 +33,4 @@ PROgamer é um aplicativo mobile voltado ao aprendizado de programação, ideal 
 
 - Tradução para outros idiomas -> Eduarda
 - Modo claro\escuro -> Lara
-- Disponível em Android (4.1 ou superior) e iOS (11 ou superior)
 - Além das funções do nosso projeto, focamos também em aspectos como rapidez e fluidez, que garantem que o sistema funcione de forma agradável, sem travamentos ou lentidão.
