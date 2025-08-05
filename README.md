@@ -32,6 +32,6 @@ PROgamer é um aplicativo mobile voltado ao aprendizado de programação, ideal 
 ## 📐 Requisitos Não-Funcionais
 
 - Tradução para outros idiomas -> Eduarda
-- Modo claro\escuro - Lara
+- Modo claro\escuro -> Lara
 - Disponível em Android (4.1 ou superior) e iOS (11 ou superior)
 - Além das funções do nosso projeto, focamos também em aspectos como rapidez e fluidez, que garantem que o sistema funcione de forma agradável, sem travamentos ou lentidão.
