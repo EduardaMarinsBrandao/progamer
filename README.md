@@ -35,3 +35,19 @@ PROgamer é um aplicativo programado por React voltado ao aprendizado de program
 
 - Disponível para Android: a partir da versão 5.0 (API 21) ou superior e iOS: a partir da versão 13.0 ou superior
 - Além das funções do nosso projeto, focamos também em aspectos como rapidez e fluidez, que garantem que o sistema funcione de forma agradável, sem travamentos ou lentidão.
+
+💻 Necessidades técnicas:
+ • Internet - para baixar o app, usar o Expo Go e carregar os conteúdos.
+ 
+ • Celular compatível - Android ou iOS com a versão mínima(n lembro qual era).
+ 
+ • Expo Go instalado - caso use a versão de testes, ou baixar seu app publicado.
+
+🚨 Necessidades do Usuário: 
+ • Aprender programação do zero (ex: variáveis, funções, loops).
+Revisar conceitos básicos se já programou antes.
+
+ • Treinar de forma prática e rápida com atividades.
+   
+ •  Acompanhar progresso (níveis e XP).
+Ter motivação para continuar aprendendo, como em um jogo.
