@@ -9,18 +9,17 @@ PROgamer é um aplicativo programado por React voltado ao aprendizado de program
 - Eduarda Marins Brandão  
 - Emilly Christinny Alves de Jesus  
 - Geovana Helena Gonçalves da Cunha  
-- Lara Marques Campassi  
 - Larissa Sirio Ferraz  
 
 ## 🧩 Funcionalidades
 
-- Cadastro e login de usuários  -> Larissa
+- Cadastro e login de usuários  
 - Escolha entre 3 linguagens de programação:  
   - C#  
   - C++
   - PHP 
-- Sistema de progresso e pontuação baseado em erros e acertos -> Geovana 
-- Atividades e desafios específicos para cada linguagem -> Eduarda, Larissa e Emilly
+- Sistema de progresso e pontuação baseado em erros e acertos 
+- Atividades e desafios específicos para cada linguagem 
 
 ## ⚙️ Requisitos Funcionais
 
@@ -28,8 +27,8 @@ PROgamer é um aplicativo programado por React voltado ao aprendizado de program
 - Seleção de linguagem de programação 
 - Monitoramento de progresso e pontuação  
 - Apresentação de atividades personalizadas por linguagem
-- Tradução para outros idiomas -> Eduarda
-- Modo claro\escuro -> Lara
+- Tradução para outros idiomas 
+- Modo claro\escuro 
 
 ## 📐 Requisitos Não-Funcionais
 
