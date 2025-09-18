@@ -27,8 +27,6 @@ PROgamer é um aplicativo programado por React voltado ao aprendizado de program
 - Seleção de linguagem de programação 
 - Monitoramento de progresso e pontuação  
 - Apresentação de atividades personalizadas por linguagem
-- Tradução para outros idiomas 
-- Modo claro\escuro 
 
 ## 📐 Requisitos Não-Funcionais
 
