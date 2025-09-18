@@ -52,3 +52,6 @@ Revisar conceitos básicos se já programou antes.
    
  •  Acompanhar progresso (níveis e XP).
 Ter motivação para continuar aprendendo, como em um jogo.
+
+
+Link do Projeto no Expo.dev (incompleto): https://snack.expo.dev/@eduarda_brandao13/progamer-duda
