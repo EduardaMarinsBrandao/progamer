@@ -52,4 +52,4 @@ Revisar conceitos básicos se já programou antes.
 Ter motivação para continuar aprendendo, como em um jogo.
 
 
-Link do Projeto no Expo.dev (incompleto): https://snack.expo.dev/@eduarda_brandao13/progamer-duda
+Link do Projeto no Expo.dev (em andamento): https://snack.expo.dev/@eduarda_brandao13/progamer-duda
